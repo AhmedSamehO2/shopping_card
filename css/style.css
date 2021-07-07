@@ -1,0 +1,53 @@
+.icon a
+{
+
+    text-decoration: none;
+    color: wheat;
+}
+
+
+.valid
+{
+    border-bottom: 1px solid grey !important;
+    border-radius: 0;
+    font-family: 'Segoe UI Light';
+    font-size: 1.1rem;
+}
+.nav-item .nav-link
+{
+    margin-left: 15px;
+    color: rgb(31, 26, 26) !important;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ 
+}
+.brder
+{
+    background-color: black;
+    width: 0px;
+    height: 2px;
+    transition: width 1s;
+}
+
+.nav-item:hover .brder
+{
+    width: 45px;
+}
+.start
+{
+    background-color: rgb(236, 236, 236);
+}
+
+.dropdown:hover>.dropdown-menu{
+
+    display: block ;
+}
+.data
+{
+    margin-top: 10%;
+}
+
+
+
+
+
+
